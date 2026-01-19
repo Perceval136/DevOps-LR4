@@ -4,5 +4,6 @@
 <img width="1183" height="649" alt="image" src="https://github.com/user-attachments/assets/97318076-12e4-4c21-b00b-9965823007f7" />  
 
 2) создан пользователь runner, настроена ssh-аутентификация по ключу между vm
-   
- src="https://github.com/user-attachments/assets/97318076-12e4-4c21-b00b-9965823007f7" />" />
+
+   <img width="1183" height="649" alt="image" src="https://github.com/user-attachments/assets/97318076-12e4-4c21-b00b-9965823007f7" />  
+
